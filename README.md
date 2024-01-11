@@ -18,7 +18,7 @@
 This **git** folder for testing and learning of code and enjoying different type of *programming language* like ***c++, python,java***. 
 *scripting language* like ***javascript***. *styling language* like ***css*** and *database command* like ***sql***. and many more..
 
-    this folder is only for learning purpose and imporving of my knowledge and skillsS.
+    this folder is only for learning purpose and imporving of my knowledge and skills.
 
 here some coding example given
 ### C++ code
@@ -35,7 +35,9 @@ return 0;
 this is a simple C++ code
 
 ### Python code
-`print("hello saklain")`
+```python
+print("hello saklain")
+```
 
 ### HTML code
 ```html
@@ -61,7 +63,7 @@ this is a simple C++ code
 |a. C++|javascript|css|
 |b. python| markup language|.|
 |c. java| HTML|*|
-|
+
 
 #
 #  
