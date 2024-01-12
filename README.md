@@ -5,7 +5,7 @@
 
  >Hello there! I'm **Saklain Mustak**, the creative mind behind this repository. As a passionate learner enthusiast, I love exploring innovative solutions and sharing my discoveries with the community.
  # My Image
-![my image](./image/photo.jpg)
+![my image](https://github.com/saklain-mustak1/profile/blob/main/image/photo.jpg)
 
 ## ***Free to Visit***
 >- [github](https://github.com/saklain-mustak1)  
