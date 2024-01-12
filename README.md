@@ -15,12 +15,12 @@
 
 #### Discription
 ---
-This **git** folder for testing and learning of code and enjoying different type of *programming language* like ***c++, python,java***. 
+This **git** folder is for testing and learning coding and enjoying different types of *programming languages* like ***c++, python,java***. 
 *scripting language* like ***javascript***. *styling language* like ***css*** and *database command* like ***sql***. and many more..
 
     this folder is only for learning purpose and imporving of my knowledge and skills.
 
-here some coding example given
+here are some coding examples given
 ### C++ code
 `#include<iostream>`
 ```cpp
@@ -55,10 +55,10 @@ print("hello saklain")
 </body>
 </html>
 ```
->*here we only three example are taken*
+>*here only three examples are taken*
 
 ## Table
-|Programming leanguage|scripting language| styling language|
+|Programming language|scripting language| styling language|
 |---|---|---|
 |a. C++|javascript|css|
 |b. python| markup language|.|
