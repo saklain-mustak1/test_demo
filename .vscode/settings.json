@@ -4,5 +4,6 @@
     "files.associations": {
         "*.java": "java",
         "iostream": "cpp"
-    }
+    },
+    "C_Cpp.errorSquiggles": "disabled"
 }

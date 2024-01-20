@@ -6,7 +6,7 @@ import matplotlib.pyplot as plt
 
 # print(y)
 
-x=["saklain", "mustak", "tumi", " aru", "moi"]
+x=["saklain", "mustak", "tum", " aur", "mai"]
 y=[20,25,15,40,10]
 plt.pie(y, labels=x)
 plt.show()
