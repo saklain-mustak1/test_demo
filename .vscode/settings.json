@@ -3,7 +3,8 @@
   "code-runner.runInTerminal": true,
   "files.associations": {
     "*.java": "java",
-    "iostream": "cpp"
+    "iostream": "cpp",
+    "ostream": "cpp"
   },
   "C_Cpp.errorSquiggles": "disabled",
   "C_Cpp_Runner.msvcBatchPath": "",
