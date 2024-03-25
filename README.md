@@ -64,6 +64,18 @@ print("hello saklain")
 |b. python| markup language|.|
 |c. java| HTML|*|
 
+<details>
+ <summary>
+  1.c++ 
+ </summary>
+ i'm trying to explore new things in c++ and practice for DSA
+</details>
+<details>
+ <summary>
+ 2. Python
+ </summary>
+ Learn python for the development purposes and upto date with the present day 
+</details>
 
 #
 #  
